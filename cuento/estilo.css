@@ -1,0 +1,70 @@
+body {
+    background-image: url(Imagen1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.custom-dropdown {
+    position: absolute;
+
+    left: 50%;
+
+}
+
+.jumbotron {
+    background-color: rgb(249, 194, 194) !important;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    border-style: solid;
+    text-align: center;
+}
+
+
+.story-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.image img {
+    position: absolute;
+    top: 70%;
+    left: 1%;
+    width: 35%;
+    height: 40%;
+}
+
+.imagen img {
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    width: 25%;
+    height: 35%;
+}
+
+.zanahoria img {
+    position: absolute;
+    top: 130%;
+    left: 70%;
+    width: 30%;
+    height: 40%;
+}
+
+.navbar {
+    background-color: #ffbf8b !important;
+}
+
+/* Cambiar color de fondo del botón de despliegue */
+.navbar-toggler {
+    background-color: #00ff00 !important;
+}
+
+.footer {
+    text-align: center; /* Alineación centrada del texto */
+    border-top: 1px solid #0c0c0c; /* Borde superior de 1 píxel sólido */
+    padding: 20px 0; /* Espaciado interno superior e inferior de 20 píxeles */
+    background-color: #f4ad73; /* Color de fondo */
+    color: rgb(8, 8, 8); /* Color del texto */
+  }

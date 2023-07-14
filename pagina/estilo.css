@@ -1,0 +1,33 @@
+.navbar-custom {
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+
+.custom-container {
+    padding-top: 5%; /* Ajusta el valor según tu preferencia */
+}
+
+.imagen {
+    width: 70%;
+    height: 50%;
+    position: relative;
+    padding-top: 2%;
+    left: 15%;
+    margin-bottom: 20px; /* Espacio entre la imagen y el elemento siguiente */
+  }
+  
+  .footer {
+    text-align: center;
+    border-top: 1px solid #0c0c0c;
+    padding: 20px 0;
+    padding-top: 2%;
+    background-color: #d0cbeb;
+    color: rgb(8, 8, 8);
+    margin-top: 5%; /* Espacio entre el elemento anterior y el footer */
+  }
+
+
+  .jumbotron {
+    max-width: 10px!important;
+    height: 50%;
+  }
